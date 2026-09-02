@@ -15,7 +15,7 @@ import database as db
 from database import RATING_LEVELS
 import utils
 
-APP_TITLE = "🍿 Que coño ver !!!"
+APP_TITLE = "🍿 Que coño ver?🍺"
 APP_TAG = "#YConCervezaEsMejor"
 ROCKANDBIRRA_URL = "https://rockandbirra.com/"
 LOGO_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets", "logo.jpg")
