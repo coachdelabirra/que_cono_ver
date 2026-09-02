@@ -1,5 +1,5 @@
 """
-🍿 Que coño ver !!!  #YConCervezaEsMejor
+🍿 Que coño ver?🍺  #YConCervezaEsMejor
 ==========================================
 App Streamlit, 100% Python, sin APIs ni servicios externos.
 Base de datos: SQLite local. Interfaz: estilo retro 8-bit (NES).
